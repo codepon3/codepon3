@@ -19,8 +19,8 @@
 🖥️ Back-end Developer • APIs • Databases • Services
 🌐 Homelabbing • Self-hosting • Docker • Networks
 💻 Self-taught dev • building real projects
-🎧 Games • Music • Code
 📖 Always learning • always shipping
+🎧 Games • Music • Code
 ```
 
 </div>
