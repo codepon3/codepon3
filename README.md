@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**codepon3/codepon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.jpg" width="85%" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello hello
+
+## ☆ I'm pon3, a mobile & back-end developer ☆
+
+</div>
+
+<br>
+
+<div align="center">
+
+```txt
+📱 Mobile Developer • Android • Kotlin / Java
+🖥️ Back-end Developer • APIs • Databases • Services
+💻 Self-taught dev • building real projects
+🎧 Breakcore • Games • Music • Code
+📖 Always learning • always shipping
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/kotlin-white?style=flat&logo=kotlin&logoColor=111111">
+<img src="https://img.shields.io/badge/java-white?style=flat&logo=openjdk&logoColor=111111">
+<img src="https://img.shields.io/badge/android-white?style=flat&logo=android&logoColor=111111">
+<img src="https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=111111">
+<img src="https://img.shields.io/badge/backend-white?style=flat&logo=serverless&logoColor=111111">
+
+</div>
