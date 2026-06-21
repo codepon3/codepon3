@@ -19,7 +19,7 @@
 🖥️ Back-end Developer • APIs • Databases • Services
 🌐 Homelabbing • Self-hosting • Docker • Networks
 💻 Self-taught dev • building real projects
-🎧 Breakcore • Games • Music • Code
+🎧 Games • Music • Code
 📖 Always learning • always shipping
 ```
 
