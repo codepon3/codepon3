@@ -20,6 +20,7 @@
 💻 Self-taught dev • building real projects
 🎧 Breakcore • Games • Music • Code
 📖 Always learning • always shipping
+🌐 Homelabbing • Self-hosting • Docker • Networks
 ```
 
 </div>
